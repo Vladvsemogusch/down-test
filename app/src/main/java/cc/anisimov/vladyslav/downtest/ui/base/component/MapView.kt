@@ -1,4 +1,4 @@
-package cc.anisimov.vladyslav.downtest.ui.screen.snap_match.component
+package cc.anisimov.vladyslav.downtest.ui.base.component
 
 import android.os.Bundle
 import androidx.compose.runtime.Composable

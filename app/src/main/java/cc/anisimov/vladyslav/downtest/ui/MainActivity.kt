@@ -7,7 +7,9 @@ import androidx.activity.viewModels
 import cc.anisimov.vladyslav.downtest.ui.screen.snap_match.SnapMatchRoute
 import cc.anisimov.vladyslav.downtest.ui.screen.snap_match.SnapMatchViewModel
 import cc.anisimov.vladyslav.downtest.ui.theme.DownTestTheme
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
     private val viewModel: SnapMatchViewModel by viewModels()

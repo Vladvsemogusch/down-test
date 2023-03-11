@@ -5,6 +5,7 @@ buildscript {
         coilVersion = "2.2.2"
         retrofitVersion = "2.9.0"
         lottieVersion = "6.0.0"
+        coilVersion = "2.2.2"
     }
     dependencies {
         classpath "com.google.dagger:hilt-android-gradle-plugin:$hiltVersion"
