@@ -4,4 +4,11 @@
     <string name="snap_match_tap_to_match">Tap to Match</string>
     <string name="snap_match_start_chatting">Start chatting with people worldwide</string>
     <string name="snap_match_online_counter">%1$d people online</string>
+    <string name="snap_match_hang_tight">Hang tight … </string>
+    <string name="snap_match_matching_you">Matching you with someone</string>
+    <string name="snap_match_number_in_line">Number %1$d in line …</string>
+    <string name="snap_match_all_good">All good things come to those who wait</string>
+    <string name="snap_match_yay">Yay!</string>
+    <string name="snap_match_heres_your">Here\'s your match.</string>
+    <string name="snap_match_stop">Stop</string>
 </resources>
